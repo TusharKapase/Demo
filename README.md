@@ -1,2 +1,4 @@
 # Demo
-This is my first Git Repository.Author - Tushar Kapase.
+This is my first Git Repository.
+<br>
+Author - Tushar Kapase.
